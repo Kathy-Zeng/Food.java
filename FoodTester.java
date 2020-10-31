@@ -1,6 +1,8 @@
 /* Kathy Zeng
    10/29/20
 *  FoodTester.java
+   Description: This program is for creating objects in main method with
+   strings of food in parentheses. This program is super class.
 */
 
 import java.util.Scanner;
