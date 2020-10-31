@@ -4,7 +4,7 @@
   Desciption: At the sale: muffins baked with bananas will be sold for 50 cents each.
   With 12 muffin(s), $6.00 can be made. The constructor, Food has been overloaded to create
   a string statement. Inside the method, variable str has a statement with variables
-  declaration from parameters. For printForSale method, . The class has been overrided
+  declaration from parameters. The class has been overrided
   with FoodTester.java as a super class, Pizza.java, and DeepDishPizza.java as subclasses.
   Food.java is super super class.
 */
