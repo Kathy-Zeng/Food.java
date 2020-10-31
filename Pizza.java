@@ -1,6 +1,8 @@
 /* Kathy Zeng
  * 10/29/20
    Pizza.java
+   Description: This program has a default constructor in order to pass
+   in a parameter. This program is subclass.
 */ 
 public class Pizza extends Food 
 {
